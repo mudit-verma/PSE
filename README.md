@@ -7,12 +7,12 @@ I used InkScape to make the glyphs. I then imported the glyphs(.svg) into Font F
 GPOS tables are a gift!
 
 ## Next Release Goals
- - Add support for glyphs such as '/' and ';'
+ - Add glyphs such as '/' and ';'
  - Further adjust kerning
  - Adjust default font size to match 12pt Times New Roman size
  - Validate font(partially at the very least)
 
 ## Validation Checklist
- - Integral Coordinates
- - Add extrema points
- - Fix overlap
+ - Adjust Non-Integral Coordinates to Integral Coordinates
+ - Add Extrema Points
+ - Remove Overlap
