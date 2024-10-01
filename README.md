@@ -1,2 +1,1 @@
-# PSE
-Pleasantly Simple Experience
+# Pleasantly Simple Experience
