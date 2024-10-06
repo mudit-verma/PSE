@@ -11,6 +11,11 @@ GPOS tables are a gift!*
 *That will prompt you to install the font on your computer. Once that's done, the font is at your disposal, ready for use!*
 *Note that you'll need to bump up the size of the font to a high number (50-75) to get something readable. I do need to adjust scaling on the font.*
 
+## Current Release Version Notes
+ - Version 0.1.1
+ - Released 5th October, 2024
+*I deleted the orginal release file because errors popped up with filling strokes.*
+
 ## Next Release Goals
  - Add glyphs such as '/' and ';'
  - Further adjust kerning
