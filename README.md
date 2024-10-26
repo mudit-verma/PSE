@@ -18,12 +18,5 @@ GPOS tables are a gift!*
 
 
 ## Next Release Goals
- - Add glyphs such as '/' and ';'
- - Further adjust kerning
- - Adjust default font size to match 12pt Times New Roman size
- - Validate font(partially at the very least)
-
-## Validation Checklist
- - Adjust Non-Integral Coordinates to Integral Coordinates
- - Add Extrema Points
- - Remove Overlap
+*I have realised the non-italic PSE font is poorly designed. But it was a joyful first experience!*
+*I aim to redesign the PSE font to be more readable and reminiscent of a timeless era. I will leave the PSE Italic font as is, adjusting kerning for usability.*
