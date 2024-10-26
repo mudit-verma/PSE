@@ -14,7 +14,7 @@ GPOS tables are a gift!*
 ## Current Release Notes
  - Version 0.1.1
  - Released 5th October, 2024
- - *I replaced the orginal release file because errors popped up with filling strokes.*
+ - *Removed overlap of strokes.*
 
 
 ## Next Release Goals
